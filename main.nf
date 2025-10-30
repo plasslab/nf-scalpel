@@ -59,7 +59,7 @@ workflow {
         params.monochrome_logs,
         args,
         params.outdir,
-        params.samplesheet,
+        params.input,
         params.help,
         params.help_full,
         params.show_hidden
